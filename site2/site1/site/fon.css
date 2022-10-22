@@ -1,0 +1,90 @@
+.wrapper {
+    text-align: center;
+}
+.linkedlist {
+    text-align: left;
+    background-color: #F5DEB3;
+    border-bottom: 7px double #FFE4C4;
+    margin: auto;
+}
+.tabletask {
+    margin: auto;
+    text-align: center;
+    border: 7px double #696969;
+}
+    .tabletask th {
+        font-weight: 600;
+        color: #800000;
+        padding: 10px 15px;
+    }
+    .tabletask td {
+        color: #A0522D;
+        font-weight: 900;
+        padding: 10px 15px;
+    }
+    .tabletask caption {
+        font-size: 40px;
+        text-decoration-color: #FFEBCD
+    }
+.tabletask tr:nth-child(even) {background:#F4A460;}
+img {
+    max-width:700px;
+    height: auto;
+}
+header {
+    text-align: center;
+    letter-spacing: 2px;
+    background: #FFF0F5;
+    color: #A52A2A;
+    border-bottom: 5px outset #FFE4E1;
+}
+.logo {
+    width: 140px;
+    float: left;
+    margin-bottom: 0px;
+    text-align: left;
+    border-radius: 25% 10%;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #A52A2A;
+   
+}
+a {
+    text-decoration: none;
+
+}
+.smt {
+    margin: auto;
+    text-align: left;
+    max-width: 960px;
+}
+.menu {
+    font-size: 30px;
+    margin: auto;
+    text-align: justify;
+    max-width: 960px;
+    background-color: #FFF8DC;
+    border-bottom: 7px dotted #DEB887;
+   
+}
+    .menu a {
+        color: #A52A2A;
+       
+    }
+.content {
+    max-width: 960px;
+    text-align: center;
+    margin: auto;
+    font-size: 130%;
+}
+form {
+    border: 7px dashed #9370DB;
+    background-color: #FFFFE0;
+    color: #CD5C5C;
+}
+footer {
+    font-size: 40px;
+    background-color: #CD853F;
+}
